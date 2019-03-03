@@ -1,4 +1,4 @@
-# Business-Intelligence-and-Data-Warehousing
+# Airbnb Experiences - Analytics
 
 ## Business Scenario
 As VP  of Experiences, understand the impact of bring in new experiences to cities.
@@ -14,7 +14,7 @@ Will people choose a city based on experiences
 
 Use these findings to bring experiences to not-so famous cities
 
-## Swimlane
+## 
 
 
 ##
